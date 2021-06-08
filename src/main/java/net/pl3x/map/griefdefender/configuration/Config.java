@@ -1,4 +1,4 @@
-package net.pl3x.map.griefprevention.configuration;
+package net.pl3x.map.griefdefender.configuration;
 
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.configuration.file.YamlConfiguration;
@@ -9,7 +9,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class Config {
-    public static String CONTROL_LABEL = "GriefPrevention";
+    public static String CONTROL_LABEL = "GriefDefender";
     public static boolean CONTROL_SHOW = true;
     public static boolean CONTROL_HIDE = false;
     public static int UPDATE_INTERVAL = 300;

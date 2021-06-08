@@ -1,10 +1,10 @@
-package net.pl3x.map.griefprevention.hook;
+package net.pl3x.map.griefdefender.hook;
 
 import net.pl3x.map.api.Key;
 import net.pl3x.map.api.Pl3xMapProvider;
 import net.pl3x.map.api.SimpleLayerProvider;
-import net.pl3x.map.griefprevention.configuration.Config;
-import net.pl3x.map.griefprevention.task.Pl3xMapTask;
+import net.pl3x.map.griefdefender.configuration.Config;
+import net.pl3x.map.griefdefender.task.Pl3xMapTask;
 import org.bukkit.plugin.Plugin;
 
 import java.util.HashMap;
